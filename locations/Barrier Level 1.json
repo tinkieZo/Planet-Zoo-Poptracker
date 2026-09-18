@@ -25,7 +25,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Aldabragianttortoise, ConservationProgram"
+                            "Permit_Aldabragianttortoise, ConservationProgram"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -51,7 +51,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Aldabragianttortoise"
+                            "Permit_Aldabragianttortoise"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -77,7 +77,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Aldabragianttortoise"
+                            "Permit_Aldabragianttortoise"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -103,7 +103,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Aldabragianttortoise, Researchcentre"
+                            "Permit_Aldabragianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -129,7 +129,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Aldabragianttortoise, Researchcentre"
+                            "Permit_Aldabragianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -155,7 +155,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Aldabragianttortoise, Researchcentre"
+                            "Permit_Aldabragianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -181,7 +181,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Aldabragianttortoise, Researchcentre"
+                            "Permit_Aldabragianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -207,7 +207,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Aldabragianttortoise, Researchcentre"
+                            "Permit_Aldabragianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -233,7 +233,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Aldabragianttortoise, Researchcentre"
+                            "Permit_Aldabragianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -259,7 +259,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Galapagosgianttortoise, ConservationProgram"
+                            "Permit_Galapagosgianttortoise, ConservationProgram"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -285,7 +285,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Galapagosgianttortoise"
+                            "Permit_Galapagosgianttortoise"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -311,7 +311,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Galapagosgianttortoise"
+                            "Permit_Galapagosgianttortoise"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -337,7 +337,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Galapagosgianttortoise, Researchcentre"
+                            "Permit_Galapagosgianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -363,7 +363,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Galapagosgianttortoise, Researchcentre"
+                            "Permit_Galapagosgianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -389,7 +389,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Galapagosgianttortoise, Researchcentre"
+                            "Permit_Galapagosgianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -415,7 +415,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Galapagosgianttortoise, Researchcentre"
+                            "Permit_Galapagosgianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -441,7 +441,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Galapagosgianttortoise, Researchcentre"
+                            "Permit_Galapagosgianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -467,7 +467,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Galapagosgianttortoise, Researchcentre"
+                            "Permit_Galapagosgianttortoise, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -493,7 +493,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Greaterflamingo, WaterHabitattools, ConservationProgram"
+                            "Permit_Greaterflamingo, WaterHabitattools, ConservationProgram"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -519,7 +519,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Greaterflamingo, WaterHabitattools"
+                            "Permit_Greaterflamingo, WaterHabitattools"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -545,7 +545,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Greaterflamingo, WaterHabitattools"
+                            "Permit_Greaterflamingo, WaterHabitattools"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -571,7 +571,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Greaterflamingo, WaterHabitattools, Researchcentre"
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -597,7 +597,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Greaterflamingo, WaterHabitattools, Researchcentre"
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -623,7 +623,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Greaterflamingo, WaterHabitattools, Researchcentre"
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -649,7 +649,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Greaterflamingo, WaterHabitattools, Researchcentre"
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -675,7 +675,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Greaterflamingo, WaterHabitattools, Researchcentre"
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -701,7 +701,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Greaterflamingo, WaterHabitattools, Researchcentre"
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -727,7 +727,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Indianpeafowl, ConservationProgram"
+                            "Permit_Indianpeafowl, ConservationProgram"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -753,7 +753,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Indianpeafowl"
+                            "Permit_Indianpeafowl"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -779,7 +779,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Indianpeafowl"
+                            "Permit_Indianpeafowl"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -805,7 +805,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Indianpeafowl, Researchcentre"
+                            "Permit_Indianpeafowl, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -831,7 +831,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Indianpeafowl, Researchcentre"
+                            "Permit_Indianpeafowl, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -857,7 +857,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Indianpeafowl, Researchcentre"
+                            "Permit_Indianpeafowl, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -883,7 +883,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Indianpeafowl, Researchcentre"
+                            "Permit_Indianpeafowl, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -909,7 +909,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Indianpeafowl, Researchcentre"
+                            "Permit_Indianpeafowl, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -935,7 +935,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Permit:Indianpeafowl, Researchcentre"
+                            "Permit_Indianpeafowl, Researchcentre"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",

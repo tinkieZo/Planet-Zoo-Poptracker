@@ -16,20 +16,20 @@
         "codes": "Enrichment:dogballfeeder"
     },
     {
-        "name": "Permit:Nilemonitor",
+        "name": "Permit_Nilemonitor",
         "type": "toggle",
         "img": "images/items/base_animals/nmonitor.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Nilemonitor"
+        "codes": "Permit_Nilemonitor"
     },
     {
-        "name": "Permit:Mandrill",
+        "name": "Permit_Mandrill",
         "type": "toggle",
         "img": "images/items/base_animals/mandrill.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Mandrill"
+        "codes": "Permit_Mandrill"
     },
     {
         "name": "Enrichment:Bloodpumpkin",
@@ -62,12 +62,12 @@
         "codes": "Enrichment:tyre"
     },
     {
-        "name": "Permit:Galapagosgianttortoise",
+        "name": "Permit_Galapagosgianttortoise",
         "type": "toggle",
         "img": "images/items/base_animals/gtortoise.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Galapagosgianttortoise"
+        "codes": "Permit_Galapagosgianttortoise"
     },
     {
         "name": "Enrichment:foragepool",
@@ -78,20 +78,20 @@
         "codes": "Enrichment:foragepool"
     },
     {
-        "name": "Permit:Indianpeafowl",
+        "name": "Permit_Indianpeafowl",
         "type": "toggle",
         "img": "images/items/base_animals/ipeafowl.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Indianpeafowl"
+        "codes": "Permit_Indianpeafowl"
     },
     {
-        "name": "Permit:Bactriancamel",
+        "name": "Permit_Bactriancamel",
         "type": "toggle",
         "img": "images/items/base_animals/bcamel.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Bactriancamel"
+        "codes": "Permit_Bactriancamel"
     },
     {
         "name": "EastAsianThemeSetsBlueprintsLevel1",
@@ -102,12 +102,12 @@
         "codes": "EastAsianThemeSetsBlueprintsLevel1"
     },
     {
-        "name": "Permit:Goliathfrog",
+        "name": "Permit_Goliathfrog",
         "type": "toggle",
         "img": "images/items/base_animals/gfrog.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Goliathfrog"
+        "codes": "Permit_Goliathfrog"
     },
     {
         "name": "CashInjectSmall",
@@ -140,12 +140,12 @@
         "codes": "IndiaThemeSetsScenery"
     },
     {
-        "name": "Permit:Aldabragianttortoise",
+        "name": "Permit_Aldabragianttortoise",
         "type": "toggle",
         "img": "images/items/base_animals/atortoise.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Aldabragianttortoise"
+        "codes": "Permit_Aldabragianttortoise"
     },
     {
         "name": "Powersolarpanel",
@@ -188,12 +188,12 @@
         "codes": "ModernThemeSetsBlueprintsLevel1"
     },
     {
-        "name": "Permit:Titanbeetle",
+        "name": "Permit_Titanbeetle",
         "type": "toggle",
         "img": "images/items/base_animals/tbeetle.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Titanbeetle"
+        "codes": "Permit_Titanbeetle"
     },
     {
         "name": "DrinkShopsCosmicCowmilkshakes",
@@ -212,28 +212,28 @@
         "codes": "FoodShopsMexelente"
     },
     {
-        "name": "Permit:Grizzlybear",
+        "name": "Permit_Grizzlybear",
         "type": "toggle",
         "img": "images/items/base_animals/gbear.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Grizzlybear"
+        "codes": "Permit_Grizzlybear"
     },
     {
-        "name": "Permit:Redruffedlemur",
+        "name": "Permit_Redruffedlemur",
         "type": "toggle",
         "img": "images/items/base_animals/relemur.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Redruffedlemur"
+        "codes": "Permit_Redruffedlemur"
     },
     {
-        "name": "Permit:Chinesepangolin",
+        "name": "Permit_Chinesepangolin",
         "type": "toggle",
         "img": "images/items/base_animals/cpangolin.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Chinesepangolin"
+        "codes": "Permit_Chinesepangolin"
     },
     {
         "name": "Enrichment:grazingball",
@@ -244,12 +244,12 @@
         "codes": "Enrichment:grazingball"
     },
     {
-        "name": "Permit:Americanbison",
+        "name": "Permit_Americanbison",
         "type": "toggle",
         "img": "images/items/base_animals/abison.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Americanbison"
+        "codes": "Permit_Americanbison"
     },
     {
         "name": "Enrichment:Bobbin",
@@ -268,12 +268,12 @@
         "codes": "Enrichment:slowfeeder"
     },
     {
-        "name": "Permit:Puffadder",
+        "name": "Permit_Puffadder",
         "type": "toggle",
         "img": "images/items/base_animals/padder.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Puffadder"
+        "codes": "Permit_Puffadder"
     },
     {
         "name": "DrinkShopsPipshotJuice",
@@ -340,12 +340,12 @@
         "codes": "FoodShopsMonsieurfrites"
     },
     {
-        "name": "Permit:Redpanda",
+        "name": "Permit_Redpanda",
         "type": "toggle",
         "img": "images/items/base_animals/rpanda.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Redpanda"
+        "codes": "Permit_Redpanda"
     },
     {
         "name": "IndiaThemeSetsBlueprintsLevel3",
@@ -364,20 +364,20 @@
         "codes": "DrinkShopsGulpeeEnergy"
     },
     {
-        "name": "Permit:Giantdeserthairyscorpion",
+        "name": "Permit_Giantdeserthairyscorpion",
         "type": "toggle",
         "img": "images/items/base_animals/gdscorpion.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Giantdeserthairyscorpion"
+        "codes": "Permit_Giantdeserthairyscorpion"
     },
     {
-        "name": "Permit:Ringtailedlemur",
+        "name": "Permit_Ringtailedlemur",
         "type": "toggle",
         "img": "images/items/base_animals/rilemur.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Ringtailedlemur"
+        "codes": "Permit_Ringtailedlemur"
     },
     {
         "name": "Stafffacilitiesquarantinelarge",
@@ -388,20 +388,20 @@
         "codes": "Stafffacilitiesquarantinelarge"
     },
     {
-        "name": "Permit:Nyala",
+        "name": "Permit_Nyala",
         "type": "toggle",
         "img": "images/items/base_animals/nyala.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Nyala"
+        "codes": "Permit_Nyala"
     },
     {
-        "name": "Permit:Siberiantiger",
+        "name": "Permit_Siberiantiger",
         "type": "toggle",
         "img": "images/items/base_animals/stiger.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Siberiantiger"
+        "codes": "Permit_Siberiantiger"
     },
     {
         "name": "Enrichment:Brachiationframe03",
@@ -428,12 +428,12 @@
         "codes": "Enrichment:waterfallandmetalframe"
     },
     {
-        "name": "Permit:Gilamonster",
+        "name": "Permit_Gilamonster",
         "type": "toggle",
         "img": "images/items/base_animals/gmonster.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Gilamonster"
+        "codes": "Permit_Gilamonster"
     },
     {
         "name": "AfricaThemeSetsBlueprintsLevel1",
@@ -460,12 +460,12 @@
         "codes": "Enrichment:Brachiationframe04"
     },
     {
-        "name": "Permit:Spottedhyena",
+        "name": "Permit_Spottedhyena",
         "type": "toggle",
         "img": "images/items/base_animals/shyena.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Spottedhyena"
+        "codes": "Permit_Spottedhyena"
     },
     {
         "name": "ProgressivesupplementLevel",
@@ -528,44 +528,44 @@
         "codes": "Enrichment:preyscentedsack"
     },
     {
-        "name": "Permit:Snowleopard",
+        "name": "Permit_Snowleopard",
         "type": "toggle",
         "img": "images/items/base_animals/sleopard.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Snowleopard"
+        "codes": "Permit_Snowleopard"
     },
     {
-        "name": "Permit:Westernlowlandgorilla",
+        "name": "Permit_Westernlowlandgorilla",
         "type": "toggle",
         "img": "images/items/base_animals/wgorilla.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Westernlowlandgorilla"
+        "codes": "Permit_Westernlowlandgorilla"
     },
     {
-        "name": "Permit:Reddeer",
+        "name": "Permit_Reddeer",
         "type": "toggle",
         "img": "images/items/base_animals/rdeer.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Reddeer"
+        "codes": "Permit_Reddeer"
     },
     {
-        "name": "Permit:Commonwarthog",
+        "name": "Permit_Commonwarthog",
         "type": "toggle",
         "img": "images/items/base_animals/cwarthog.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Commonwarthog"
+        "codes": "Permit_Commonwarthog"
     },
     {
-        "name": "Permit:Westerndiamondbackrattlesnake",
+        "name": "Permit_Westerndiamondbackrattlesnake",
         "type": "toggle",
         "img": "images/items/base_animals/wrattlesnake.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Westerndiamondbackrattlesnake"
+        "codes": "Permit_Westerndiamondbackrattlesnake"
     },
     {
         "name": "Enrichment:largeball",
@@ -584,12 +584,12 @@
         "codes": "Transportsafarijeepstation"
     },
     {
-        "name": "Permit:Yellowanaconda",
+        "name": "Permit_Yellowanaconda",
         "type": "toggle",
         "img": "images/items/base_animals/yanaconda.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Yellowanaconda"
+        "codes": "Permit_Yellowanaconda"
     },
     {
         "name": "FoodShopsHotdogsquad",
@@ -600,20 +600,20 @@
         "codes": "FoodShopsHotdogsquad"
     },
     {
-        "name": "Permit:Bengaltiger",
+        "name": "Permit_Bengaltiger",
         "type": "toggle",
         "img": "images/items/base_animals/btiger.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Bengaltiger"
+        "codes": "Permit_Bengaltiger"
     },
     {
-        "name": "Permit:Collaredpeccary",
+        "name": "Permit_Collaredpeccary",
         "type": "toggle",
         "img": "images/items/base_animals/cpeccary.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Collaredpeccary"
+        "codes": "Permit_Collaredpeccary"
     },
     {
         "name": "Enrichment:smallbarrelfeeder",
@@ -624,20 +624,20 @@
         "codes": "Enrichment:smallbarrelfeeder"
     },
     {
-        "name": "Permit:Goliathbirdeater",
+        "name": "Permit_Goliathbirdeater",
         "type": "toggle",
         "img": "images/items/base_animals/gbirdeater.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Goliathbirdeater"
+        "codes": "Permit_Goliathbirdeater"
     },
     {
-        "name": "Permit:Springbok",
+        "name": "Permit_Springbok",
         "type": "toggle",
         "img": "images/items/base_animals/springbok.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Springbok"
+        "codes": "Permit_Springbok"
     },
     {
         "name": "Enrichment:discoball",
@@ -648,12 +648,12 @@
         "codes": "Enrichment:discoball"
     },
     {
-        "name": "Permit:Malabarrose",
+        "name": "Permit_Malabarrose",
         "type": "toggle",
         "img": "images/items/base_animals/mrose.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Malabarrose"
+        "codes": "Permit_Malabarrose"
     },
     {
         "name": "ModernThemeSetsBlueprintsLevel2",
@@ -664,12 +664,12 @@
         "codes": "ModernThemeSetsBlueprintsLevel2"
     },
     {
-        "name": "Permit:Hippopotamus",
+        "name": "Permit_Hippopotamus",
         "type": "toggle",
         "img": "images/items/base_animals/hippo.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Hippopotamus"
+        "codes": "Permit_Hippopotamus"
     },
     {
         "name": "Stafffacilitiesresearchcentrelarge",
@@ -680,20 +680,20 @@
         "codes": "Stafffacilitiesresearchcentrelarge"
     },
     {
-        "name": "Permit:Formosanblackbear",
+        "name": "Permit_Formosanblackbear",
         "type": "toggle",
         "img": "images/items/base_animals/fbear.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Formosanblackbear"
+        "codes": "Permit_Formosanblackbear"
     },
     {
-        "name": "Permit:Timberwolf",
+        "name": "Permit_Timberwolf",
         "type": "toggle",
         "img": "images/items/base_animals/twolf.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Timberwolf"
+        "codes": "Permit_Timberwolf"
     },
     {
         "name": "ConservationCreditsSmall",
@@ -710,12 +710,12 @@
         "codes": "ConservationCreditsSmall"
     },
     {
-        "name": "Permit:Africansavannahelephant",
+        "name": "Permit_Africansavannahelephant",
         "type": "toggle",
         "img": "images/items/base_animals/aelephant.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Africansavannahelephant"
+        "codes": "Permit_Africansavannahelephant"
     },
     {
         "name": "Enrichment:treeforager",
@@ -754,12 +754,12 @@
         ]
     },
     {
-        "name": "Permit:Indianrhinoceros",
+        "name": "Permit_Indianrhinoceros",
         "type": "toggle",
         "img": "images/items/base_animals/irhino.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Indianrhinoceros"
+        "codes": "Permit_Indianrhinoceros"
     },
     {
         "name": "EastAsianThemeSetsBlueprintsLevel3",
@@ -770,12 +770,12 @@
         "codes": "EastAsianThemeSetsBlueprintsLevel3"
     },
     {
-        "name": "Permit:Africanwilddog",
+        "name": "Permit_Africanwilddog",
         "type": "toggle",
         "img": "images/items/base_animals/adog.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Africanwilddog"
+        "codes": "Permit_Africanwilddog"
     },
     {
         "name": "Enrichment:scratchingpost",
@@ -794,12 +794,12 @@
         "codes": "Enrichment:pinata"
     },
     {
-        "name": "Permit:Mexicanredkneetarantula",
+        "name": "Permit_Mexicanredkneetarantula",
         "type": "toggle",
         "img": "images/items/base_animals/mtarantula.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Mexicanredkneetarantula"
+        "codes": "Permit_Mexicanredkneetarantula"
     },
     {
         "name": "SheltersshelterBlueprintsLevel3",
@@ -826,12 +826,12 @@
         "codes": "Enrichment:grabball"
     },
     {
-        "name": "Permit:Africanbuffalo",
+        "name": "Permit_Africanbuffalo",
         "type": "toggle",
         "img": "images/items/base_animals/abuffalo.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Africanbuffalo"
+        "codes": "Permit_Africanbuffalo"
     },
     {
         "name": "Enrichment:naturalwaterjet",
@@ -850,12 +850,12 @@
         "codes": "Stafffacilitieskeeperhutlarge"
     },
     {
-        "name": "Permit:Easternbrownsnake",
+        "name": "Permit_Easternbrownsnake",
         "type": "toggle",
         "img": "images/items/base_animals/esnake.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Easternbrownsnake"
+        "codes": "Permit_Easternbrownsnake"
     },
     {
         "name": "Enrichment:treescatterfeeder",
@@ -866,28 +866,28 @@
         "codes": "Enrichment:treescatterfeeder"
     },
     {
-        "name": "Permit:Brazilianwanderingspider",
+        "name": "Permit_Brazilianwanderingspider",
         "type": "toggle",
         "img": "images/items/base_animals/bspider.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Brazilianwanderingspider"
+        "codes": "Permit_Brazilianwanderingspider"
     },
     {
-        "name": "Permit:Africanleopard",
+        "name": "Permit_Africanleopard",
         "type": "toggle",
         "img": "images/items/base_animals/aleopard.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Africanleopard"
+        "codes": "Permit_Africanleopard"
     },
     {
-        "name": "Permit:Bairdstapir",
+        "name": "Permit_Bairdstapir",
         "type": "toggle",
         "img": "images/items/base_animals/btapir.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Bairdstapir"
+        "codes": "Permit_Bairdstapir"
     },
     {
         "name": "SouvenirShopsjustamomento",
@@ -906,28 +906,28 @@
         "codes": "Enrichment:smallball"
     },
     {
-        "name": "Permit:Lehmannpoisonfrog",
+        "name": "Permit_Lehmannpoisonfrog",
         "type": "toggle",
         "img": "images/items/base_animals/lfrog.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Lehmannpoisonfrog"
+        "codes": "Permit_Lehmannpoisonfrog"
     },
     {
-        "name": "Permit:Commonostrich",
+        "name": "Permit_Commonostrich",
         "type": "toggle",
         "img": "images/items/base_animals/costrich.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Commonostrich"
+        "codes": "Permit_Commonostrich"
     },
     {
-        "name": "Permit:Borneanorangutan",
+        "name": "Permit_Borneanorangutan",
         "type": "toggle",
         "img": "images/items/base_animals/borangutan.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Borneanorangutan"
+        "codes": "Permit_Borneanorangutan"
     },
     {
         "name": "HabitatsHabitatBlueprintsLevel1",
@@ -938,12 +938,12 @@
         "codes": "HabitatsHabitatBlueprintsLevel1"
     },
     {
-        "name": "Permit:Gianttigerlandsnail",
+        "name": "Permit_Gianttigerlandsnail",
         "type": "toggle",
         "img": "images/items/base_animals/gsnail.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Gianttigerlandsnail"
+        "codes": "Permit_Gianttigerlandsnail"
     },
     {
         "name": "DrinkShopsGulpeeSlush",
@@ -954,12 +954,12 @@
         "codes": "DrinkShopsGulpeeSlush"
     },
     {
-        "name": "Permit:Japanesemacaque",
+        "name": "Permit_Japanesemacaque",
         "type": "toggle",
         "img": "images/items/base_animals/jmacaque.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Japanesemacaque"
+        "codes": "Permit_Japanesemacaque"
     },
     {
         "name": "AfricaThemeSetsBlueprintsLevel3",
@@ -1000,20 +1000,20 @@
         "codes": "Workshop"
     },
     {
-        "name": "Permit:Pronghornantelope",
+        "name": "Permit_Pronghornantelope",
         "type": "toggle",
         "img": "images/items/base_animals/pantelope.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Pronghornantelope"
+        "codes": "Permit_Pronghornantelope"
     },
     {
-        "name": "Permit:Blackandwhiteruffedlemur",
+        "name": "Permit_Blackandwhiteruffedlemur",
         "type": "toggle",
         "img": "images/items/base_animals/blemur.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Blackandwhiteruffedlemur"
+        "codes": "Permit_Blackandwhiteruffedlemur"
     },
     {
         "name": "ClassicThemeSetsScenery",
@@ -1024,12 +1024,12 @@
         "codes": "ClassicThemeSetsScenery"
     },
     {
-        "name": "Permit:Bonobo",
+        "name": "Permit_Bonobo",
         "type": "toggle",
         "img": "images/items/base_animals/bonobo.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Bonobo"
+        "codes": "Permit_Bonobo"
     },
     {
         "name": "Enrichment:restraintfeeder",
@@ -1056,12 +1056,12 @@
         "codes": "FoodShopsPizzapen"
     },
     {
-        "name": "Permit:Amazoniangiantcentipede",
+        "name": "Permit_Amazoniangiantcentipede",
         "type": "toggle",
         "img": "images/items/base_animals/acentipede.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Amazoniangiantcentipede"
+        "codes": "Permit_Amazoniangiantcentipede"
     },
     {
         "name": "Enrichment:scratchingtreescotspine01",
@@ -1080,20 +1080,20 @@
         "codes": "ModernThemeSetsBlueprintsLevel3"
     },
     {
-        "name": "Permit:Lesserantilleaniguana",
+        "name": "Permit_Lesserantilleaniguana",
         "type": "toggle",
         "img": "images/items/base_animals/liguana.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Lesserantilleaniguana"
+        "codes": "Permit_Lesserantilleaniguana"
     },
     {
-        "name": "Permit:Goldenpoisonfrog",
+        "name": "Permit_Goldenpoisonfrog",
         "type": "toggle",
         "img": "images/items/base_animals/gpfrog.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Goldenpoisonfrog"
+        "codes": "Permit_Goldenpoisonfrog"
     },
     {
         "name": "DrinkShopsFoxyCoffee",
@@ -1128,12 +1128,12 @@
         "codes": "Enrichment:smallballice"
     },
     {
-        "name": "Permit:Giantpanda",
+        "name": "Permit_Giantpanda",
         "type": "toggle",
         "img": "images/items/base_animals/gpanda.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Giantpanda"
+        "codes": "Permit_Giantpanda"
     },
     {
         "name": "ProgressiveeducationLevel",
@@ -1172,12 +1172,12 @@
         "codes": "AfricaThemeSetsBlueprintsLevel2"
     },
     {
-        "name": "Permit:Sableantelope",
+        "name": "Permit_Sableantelope",
         "type": "toggle",
         "img": "images/items/base_animals/santelope.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Sableantelope"
+        "codes": "Permit_Sableantelope"
     },
     {
         "name": "Enrichment:Blockofice",
@@ -1188,12 +1188,12 @@
         "codes": "Enrichment:Blockofice"
     },
     {
-        "name": "Permit:Indianelephant",
+        "name": "Permit_Indianelephant",
         "type": "toggle",
         "img": "images/items/base_animals/ielephant.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Indianelephant"
+        "codes": "Permit_Indianelephant"
     },
     {
         "name": "FoodShopsCosmiccowicecream",
@@ -1212,20 +1212,20 @@
         "codes": "Stafffacilitiesstaffcentrelarge"
     },
     {
-        "name": "Permit:WestAfricanlion",
+        "name": "Permit_WestAfricanlion",
         "type": "toggle",
         "img": "images/items/base_animals/wlion.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:WestAfricanlion"
+        "codes": "Permit_WestAfricanlion"
     },
     {
-        "name": "Permit:Gemsbok",
+        "name": "Permit_Gemsbok",
         "type": "toggle",
         "img": "images/items/base_animals/gemsbok.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Gemsbok"
+        "codes": "Permit_Gemsbok"
     },
     {
         "name": "WaterHabitattools",
@@ -1272,12 +1272,12 @@
         ]
     },
     {
-        "name": "Permit:Aardvark",
+        "name": "Permit_Aardvark",
         "type": "toggle",
         "img": "images/items/base_animals/aardvark.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Aardvark"
+        "codes": "Permit_Aardvark"
     },
     {
         "name": "Enrichment:tyrelarge",
@@ -1302,12 +1302,12 @@
         "codes": "ConservationCreditsLarge"
     },
     {
-        "name": "Permit:Braziliansalmonpinktarantula",
+        "name": "Permit_Braziliansalmonpinktarantula",
         "type": "toggle",
         "img": "images/items/base_animals/btarantula.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Braziliansalmonpinktarantula"
+        "codes": "Permit_Braziliansalmonpinktarantula"
     },
     {
         "name": "ConservationProgram",
@@ -1385,12 +1385,12 @@
         "codes": "Enrichment:Bloodtrail"
     },
     {
-        "name": "Permit:Cheetah",
+        "name": "Permit_Cheetah",
         "type": "toggle",
         "img": "images/items/base_animals/cheetah.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Cheetah"
+        "codes": "Permit_Cheetah"
     },
     {
         "name": "Enrichment:scratchingtreetamarind01",
@@ -1409,12 +1409,12 @@
         "codes": "Enrichment:firehoseball"
     },
     {
-        "name": "Permit:Plainszebra",
+        "name": "Permit_Plainszebra",
         "type": "toggle",
         "img": "images/items/base_animals/pzebra.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Plainszebra"
+        "codes": "Permit_Plainszebra"
     },
     {
         "name": "Enrichment:gyro",
@@ -1457,12 +1457,12 @@
         "codes": "Enrichment:windchimes"
     },
     {
-        "name": "Permit:Giantburrowingcockroach",
+        "name": "Permit_Giantburrowingcockroach",
         "type": "toggle",
         "img": "images/items/base_animals/groach.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Giantburrowingcockroach"
+        "codes": "Permit_Giantburrowingcockroach"
     },
     {
         "name": "Enrichment:waterjet",
@@ -1489,28 +1489,28 @@
         "codes": "Enrichment:sprinkler"
     },
     {
-        "name": "Permit:Saltwatercrocodile",
+        "name": "Permit_Saltwatercrocodile",
         "type": "toggle",
         "img": "images/items/base_animals/scroc.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Saltwatercrocodile"
+        "codes": "Permit_Saltwatercrocodile"
     },
     {
-        "name": "Permit:Himalayanbrownbear",
+        "name": "Permit_Himalayanbrownbear",
         "type": "toggle",
         "img": "images/items/base_animals/hbear.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Himalayanbrownbear"
+        "codes": "Permit_Himalayanbrownbear"
     },
     {
-        "name": "Permit:Westernchimpanzee",
+        "name": "Permit_Westernchimpanzee",
         "type": "toggle",
         "img": "images/items/base_animals/wchimp.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Westernchimpanzee"
+        "codes": "Permit_Westernchimpanzee"
     },
     {
         "name": "EastAsianThemeSetsBlueprintsLevel2",
@@ -1521,12 +1521,12 @@
         "codes": "EastAsianThemeSetsBlueprintsLevel2"
     },
     {
-        "name": "Permit:Goliathbeetle",
+        "name": "Permit_Goliathbeetle",
         "type": "toggle",
         "img": "images/items/base_animals/gbeetle.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Goliathbeetle"
+        "codes": "Permit_Goliathbeetle"
     },
     {
         "name": "Enrichment:largeballsnow",
@@ -1569,20 +1569,20 @@
         "codes": "Enrichment:herbs"
     },
     {
-        "name": "Permit:Boaconstrictor",
+        "name": "Permit_Boaconstrictor",
         "type": "toggle",
         "img": "images/items/base_animals/bconstrictor.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Boaconstrictor"
+        "codes": "Permit_Boaconstrictor"
     },
     {
-        "name": "Permit:Giantforestscorpion",
+        "name": "Permit_Giantforestscorpion",
         "type": "toggle",
         "img": "images/items/base_animals/gfscorpion.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Giantforestscorpion"
+        "codes": "Permit_Giantforestscorpion"
     },
     {
         "name": "HabitatsHabitatBlueprintsLevel3",
@@ -1617,12 +1617,12 @@
         "codes": "Transportsteamtrainstation"
     },
     {
-        "name": "Permit:Commondeathadder",
+        "name": "Permit_Commondeathadder",
         "type": "toggle",
         "img": "images/items/base_animals/cadder.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Commondeathadder"
+        "codes": "Permit_Commondeathadder"
     },
     {
         "name": "Enrichment:Brachiationframeextension",
@@ -1663,12 +1663,12 @@
         "codes": "Enrichment:hanginggrazer"
     },
     {
-        "name": "Permit:Gharial",
+        "name": "Permit_Gharial",
         "type": "toggle",
         "img": "images/items/base_animals/gharial.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Gharial"
+        "codes": "Permit_Gharial"
     },
     {
         "name": "Enrichment:Blockoficefish",
@@ -1735,52 +1735,52 @@
         "codes": "Enrichment:chewtoy"
     },
     {
-        "name": "Permit:Blackwildebeest",
+        "name": "Permit_Blackwildebeest",
         "type": "toggle",
         "img": "images/items/base_animals/bwildebeest.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Blackwildebeest"
+        "codes": "Permit_Blackwildebeest"
     },
     {
-        "name": "Permit:Greaterflamingo",
+        "name": "Permit_Greaterflamingo",
         "type": "toggle",
         "img": "images/items/base_animals/gflamingo.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Greaterflamingo"
+        "codes": "Permit_Greaterflamingo"
     },
     {
-        "name": "Permit:Greeniguana",
+        "name": "Permit_Greeniguana",
         "type": "toggle",
         "img": "images/items/base_animals/giguana.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Greeniguana"
+        "codes": "Permit_Greeniguana"
     },
     {
-        "name": "Permit:Bongo",
+        "name": "Permit_Bongo",
         "type": "toggle",
         "img": "images/items/base_animals/bongo.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Bongo"
+        "codes": "Permit_Bongo"
     },
     {
-        "name": "Permit:Reticulatedgiraffe",
+        "name": "Permit_Reticulatedgiraffe",
         "type": "toggle",
         "img": "images/items/base_animals/rgiraffe.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Reticulatedgiraffe"
+        "codes": "Permit_Reticulatedgiraffe"
     },
     {
-        "name": "Permit:Okapi",
+        "name": "Permit_Okapi",
         "type": "toggle",
         "img": "images/items/base_animals/okapi.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "Permit:Okapi"
+        "codes": "Permit_Okapi"
     },
     {
         "name": "update",
