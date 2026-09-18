@@ -1,6 +1,6 @@
 [
     {
-        "name": "Overworld",
+        "name": "Overview",
         "children": [
             {
                 "name": "Barrier Level 1",
@@ -151,13 +151,6 @@
                     }
                 ],
                 "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 1307,
-                        "y": 2222,
-                        "size": 6,
-                        "shape": "rect"
-                    },
                     {
                         "map": "Overview",
                         "x": 507,
@@ -1289,13 +1282,6 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Overworld",
-                        "x": 509,
-                        "y": 1075,
-                        "size": 6,
-                        "shape": "rect"
-                    },
-                    {
                         "map": "Overview",
                         "x": 507,
                         "y": 264,
@@ -1710,13 +1696,6 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Overworld",
-                        "x": 1111,
-                        "y": 391,
-                        "size": 6,
-                        "shape": "rect"
-                    },
-                    {
                         "map": "Overview",
                         "x": 504,
                         "y": 330,
@@ -2022,13 +2001,6 @@
                     }
                 ],
                 "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 1970,
-                        "y": 1348,
-                        "size": 6,
-                        "shape": "rect"
-                    },
                     {
                         "map": "Overview",
                         "x": 507,
@@ -2816,16 +2788,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Overworld",
-                        "x": 394,
-                        "y": 1790,
-                        "size": 6,
-                        "shape": "rect"
-                    },
-                    {
                         "map": "Overview",
-                        "x": 504,
-                        "y": 135,
+                        "x": 505,
+                        "y": 129,
                         "size": 10,
                         "shape": "rect"
                     }
@@ -3069,13 +3034,6 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Overworld",
-                        "x": 803,
-                        "y": 2170,
-                        "size": 6,
-                        "shape": "rect"
-                    },
-                    {
                         "map": "Overview",
                         "x": 511,
                         "y": 524,
@@ -3138,16 +3096,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Overworld",
-                        "x": 1860,
-                        "y": 1192,
-                        "size": 6,
-                        "shape": "rect"
-                    },
-                    {
                         "map": "Overview",
-                        "x": 504,
-                        "y": 461,
+                        "x": 509,
+                        "y": 456,
                         "size": 10,
                         "shape": "rect"
                     }

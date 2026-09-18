@@ -1,30 +1,12 @@
 [
     {
         "name": "Barrier Level 4",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
         "children": [
             {
                 "name": "",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "children": [
                     {
                         "name": "African Savannah Elephant - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -36,20 +18,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 2338,
-                                "y": 1489,
-                                "size": 6
+                                "x": 702,
+                                "y": 371,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africansavannahelephant, WaterHabitattools, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Savannah Elephant - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -61,20 +44,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 626,
-                                "y": 640,
-                                "size": 6
+                                "x": 447,
+                                "y": 362,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africansavannahelephant, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Savannah Elephant - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -86,20 +70,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 2337,
-                                "y": 810,
-                                "size": 6
+                                "x": 565,
+                                "y": 362,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africansavannahelephant, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Savannah Elephant - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -111,20 +96,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 2098,
-                                "y": 2426,
-                                "size": 6
+                                "x": 833,
+                                "y": 359,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africansavannahelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Savannah Elephant - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -136,20 +122,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 118,
-                                "y": 1574,
-                                "size": 6
+                                "x": 956,
+                                "y": 367,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africansavannahelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Savannah Elephant - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -161,20 +148,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1882,
-                                "y": 1737,
-                                "size": 6
+                                "x": 1086,
+                                "y": 362,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africansavannahelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Savannah Elephant - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -186,20 +174,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 672,
-                                "y": 1882,
-                                "size": 6
+                                "x": 1202,
+                                "y": 367,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africansavannahelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Savannah Elephant - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -211,20 +200,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 2326,
-                                "y": 2151,
-                                "size": 6
+                                "x": 1341,
+                                "y": 364,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africansavannahelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Savannah Elephant - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -236,20 +226,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 2188,
-                                "y": 767,
-                                "size": 6
+                                "x": 1457,
+                                "y": 359,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africansavannahelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Formosan Black Bear - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -261,20 +252,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 843,
-                                "y": 1006,
-                                "size": 6
+                                "x": 694,
+                                "y": 98,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Formosanblackbear, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Formosan Black Bear - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -286,20 +278,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1143,
-                                "y": 409,
-                                "size": 6
+                                "x": 454,
+                                "y": 98,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Formosanblackbear"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Formosan Black Bear - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -311,20 +304,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 890,
-                                "y": 1453,
-                                "size": 6
+                                "x": 576,
+                                "y": 98,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Formosanblackbear"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Formosan Black Bear - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -336,20 +330,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1886,
-                                "y": 210,
-                                "size": 6
+                                "x": 829,
+                                "y": 93,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Formosanblackbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Formosan Black Bear - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -361,20 +356,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 736,
-                                "y": 2425,
-                                "size": 6
+                                "x": 954,
+                                "y": 93,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Formosanblackbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Formosan Black Bear - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -386,20 +382,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 399,
-                                "y": 2105,
-                                "size": 6
+                                "x": 1076,
+                                "y": 107,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Formosanblackbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Formosan Black Bear - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -411,20 +408,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 579,
-                                "y": 1752,
-                                "size": 6
+                                "x": 1197,
+                                "y": 104,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Formosanblackbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Formosan Black Bear - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -436,20 +434,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1313,
-                                "y": 2163,
-                                "size": 6
+                                "x": 1319,
+                                "y": 98,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Formosanblackbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Formosan Black Bear - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -461,20 +460,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1161,
-                                "y": 2283,
-                                "size": 6
+                                "x": 1457,
+                                "y": 98,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Formosanblackbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Giant Panda - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -486,20 +486,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 411,
-                                "y": 2391,
-                                "size": 6
+                                "x": 702,
+                                "y": 168,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Giantpanda, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Giant Panda - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -511,20 +512,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 2268,
-                                "y": 1040,
-                                "size": 6
+                                "x": 451,
+                                "y": 173,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Giantpanda"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Giant Panda - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -536,20 +538,801 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1300,
-                                "y": 1695,
-                                "size": 6
+                                "x": 572,
+                                "y": 177,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Giantpanda"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Giant Panda - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 838,
+                                "y": 173,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Giantpanda, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Giant Panda - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
                         ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 951,
+                                "y": 173,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Giantpanda, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Giant Panda - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1081,
+                                "y": 173,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Giantpanda, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Giant Panda - Research Welfare 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1206,
+                                "y": 164,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Giantpanda, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Giant Panda - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1327,
+                                "y": 164,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Giantpanda, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Giant Panda - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1440,
+                                "y": 164,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Giantpanda, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Grizzly Bear - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 708,
+                                "y": 229,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Grizzlybear, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Grizzly Bear - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 459,
+                                "y": 229,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Grizzlybear"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Grizzly Bear - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 576,
+                                "y": 234,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Grizzlybear"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Grizzly Bear - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 833,
+                                "y": 246,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Grizzlybear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Grizzly Bear - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 954,
+                                "y": 237,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Grizzlybear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Grizzly Bear - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1076,
+                                "y": 242,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Grizzlybear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Grizzly Bear - Research Welfare 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1202,
+                                "y": 237,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Grizzlybear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Grizzly Bear - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1331,
+                                "y": 237,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Grizzlybear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Grizzly Bear - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1452,
+                                "y": 229,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Grizzlybear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Himalayan Brown Bear - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 702,
+                                "y": 303,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Himalayanbrownbear, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Himalayan Brown Bear - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 468,
+                                "y": 303,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Himalayanbrownbear"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Himalayan Brown Bear - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 581,
+                                "y": 293,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Himalayanbrownbear"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Himalayan Brown Bear - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 829,
+                                "y": 293,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Himalayanbrownbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Himalayan Brown Bear - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 963,
+                                "y": 303,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Himalayanbrownbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Himalayan Brown Bear - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1084,
+                                "y": 298,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Himalayanbrownbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Himalayan Brown Bear - Research Welfare 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1209,
+                                "y": 303,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Himalayanbrownbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Himalayan Brown Bear - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1322,
+                                "y": 310,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Himalayanbrownbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Himalayan Brown Bear - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1452,
+                                "y": 302,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Himalayanbrownbear, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Hippopotamus - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 699,
+                                "y": 433,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Hippopotamus, WaterHabitattools, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Hippopotamus - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 463,
+                                "y": 428,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Hippopotamus, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Hippopotamus - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 576,
+                                "y": 425,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Hippopotamus, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Hippopotamus - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 824,
+                                "y": 420,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Hippopotamus, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Hippopotamus - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 951,
+                                "y": 437,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Hippopotamus, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Hippopotamus - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 4",
+                                "x": 1070,
+                                "y": 430,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Hippopotamus, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Hippopotamus - Research Welfare 4",
                         "sections": [
                             {
                                 "name": "",
@@ -562,769 +1345,20 @@
                             {
                                 "map": "Barrier Level 4",
                                 "x": 1194,
-                                "y": 2209,
-                                "size": 6
+                                "y": 428,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Giant Panda - Research Welfare 2",
+                        ],
+                        "access_rules": [
+                            "Permit:Hippopotamus, WaterHabitattools, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 2334,
-                                "y": 1550,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Giant Panda - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 2310,
-                                "y": 1619,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Giant Panda - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 844,
-                                "y": 1416,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Giant Panda - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 1438,
-                                "y": 2198,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Giant Panda - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 190,
-                                "y": 1579,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Grizzly Bear - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 592,
-                                "y": 2419,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Grizzly Bear - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 2005,
-                                "y": 162,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Grizzly Bear - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 128,
-                                "y": 796,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Grizzly Bear - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 81,
-                                "y": 462,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Grizzly Bear - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 2066,
-                                "y": 2264,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Grizzly Bear - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 434,
-                                "y": 1288,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Grizzly Bear - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 115,
-                                "y": 135,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Grizzly Bear - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 964,
-                                "y": 1277,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Grizzly Bear - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 832,
-                                "y": 348,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Himalayan Brown Bear - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 2129,
-                                "y": 2217,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Himalayan Brown Bear - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 2445,
-                                "y": 257,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Himalayan Brown Bear - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 1740,
-                                "y": 635,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Himalayan Brown Bear - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 854,
-                                "y": 47,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Himalayan Brown Bear - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 1582,
-                                "y": 886,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Himalayan Brown Bear - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 188,
-                                "y": 779,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Himalayan Brown Bear - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 588,
-                                "y": 2162,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Himalayan Brown Bear - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 1485,
-                                "y": 2330,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Himalayan Brown Bear - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 1432,
-                                "y": 1948,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Hippopotamus - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 190,
-                                "y": 810,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Hippopotamus - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 1779,
-                                "y": 805,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Hippopotamus - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 1158,
-                                "y": 2363,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Hippopotamus - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 1348,
-                                "y": 2466,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Hippopotamus - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 241,
-                                "y": 239,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Hippopotamus - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 260,
-                                "y": 946,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Hippopotamus - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 4",
-                                "x": 1580,
-                                "y": 2397,
-                                "size": 6
-                            }
-                        ]
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Hippopotamus - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1336,20 +1370,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 929,
-                                "y": 1677,
-                                "size": 6
+                                "x": 1313,
+                                "y": 421,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Hippopotamus, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Hippopotamus - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1361,20 +1396,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1495,
-                                "y": 871,
-                                "size": 6
+                                "x": 1452,
+                                "y": 430,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Hippopotamus, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Elephant - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1386,20 +1422,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 655,
-                                "y": 2218,
-                                "size": 6
+                                "x": 697,
+                                "y": 494,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianelephant, WaterHabitattools, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Elephant - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1411,20 +1448,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1950,
-                                "y": 664,
-                                "size": 6
+                                "x": 465,
+                                "y": 489,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianelephant, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Elephant - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1436,20 +1474,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1395,
-                                "y": 2081,
-                                "size": 6
+                                "x": 584,
+                                "y": 491,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianelephant, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Elephant - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1461,20 +1500,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1328,
-                                "y": 1128,
-                                "size": 6
+                                "x": 815,
+                                "y": 499,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Elephant - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1486,20 +1526,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 857,
-                                "y": 213,
-                                "size": 6
+                                "x": 945,
+                                "y": 494,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Elephant - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1511,20 +1552,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 503,
-                                "y": 2414,
-                                "size": 6
+                                "x": 1063,
+                                "y": 506,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Elephant - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1536,20 +1578,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 911,
-                                "y": 2298,
-                                "size": 6
+                                "x": 1185,
+                                "y": 491,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Elephant - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1561,20 +1604,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 832,
-                                "y": 845,
-                                "size": 6
+                                "x": 1324,
+                                "y": 485,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Elephant - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1586,20 +1630,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 2282,
-                                "y": 2251,
-                                "size": 6
+                                "x": 1435,
+                                "y": 491,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianelephant, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Rhinoceros - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1611,20 +1656,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1839,
-                                "y": 1664,
-                                "size": 6
+                                "x": 711,
+                                "y": 564,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianrhinoceros, WaterHabitattools, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Rhinoceros - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1636,20 +1682,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 283,
-                                "y": 1371,
-                                "size": 6
+                                "x": 456,
+                                "y": 564,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianrhinoceros, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Rhinoceros - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1661,20 +1708,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1748,
-                                "y": 2307,
-                                "size": 6
+                                "x": 590,
+                                "y": 558,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianrhinoceros, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Rhinoceros - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1686,20 +1734,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 2396,
-                                "y": 1598,
-                                "size": 6
+                                "x": 824,
+                                "y": 564,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianrhinoceros, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Rhinoceros - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1711,20 +1760,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 2318,
-                                "y": 1830,
-                                "size": 6
+                                "x": 954,
+                                "y": 558,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianrhinoceros, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Rhinoceros - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1736,20 +1786,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 2140,
-                                "y": 2171,
-                                "size": 6
+                                "x": 1084,
+                                "y": 567,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianrhinoceros, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Rhinoceros - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1761,20 +1812,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 2235,
-                                "y": 261,
-                                "size": 6
+                                "x": 1206,
+                                "y": 558,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianrhinoceros, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Rhinoceros - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1786,20 +1838,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 1263,
-                                "y": 1024,
-                                "size": 6
+                                "x": 1341,
+                                "y": 558,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianrhinoceros, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Indian Rhinoceros - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1811,14 +1864,31 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 4",
-                                "x": 75,
-                                "y": 295,
-                                "size": 6
+                                "x": 1444,
+                                "y": 564,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Indianrhinoceros, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     }
-                ]
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
             }
-        ]
+        ],
+        "access_rules": [
+            "ProgressivebarrierLevel:4"
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
     }
 ]

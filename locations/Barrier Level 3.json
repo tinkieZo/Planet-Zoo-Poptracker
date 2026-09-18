@@ -1,30 +1,12 @@
 [
     {
         "name": "Barrier Level 3",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
         "children": [
             {
                 "name": "",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "children": [
                     {
                         "name": "African Buffalo - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -36,20 +18,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1057,
-                                "y": 843,
-                                "size": 6
+                                "x": 706,
+                                "y": 762,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africanbuffalo, WaterHabitattools, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Buffalo - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -61,20 +44,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 101,
-                                "y": 710,
-                                "size": 6
+                                "x": 455,
+                                "y": 758,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africanbuffalo, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Buffalo - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -86,20 +70,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 620,
-                                "y": 1783,
-                                "size": 6
+                                "x": 580,
+                                "y": 753,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africanbuffalo, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Buffalo - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -111,20 +96,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 331,
-                                "y": 2485,
-                                "size": 6
+                                "x": 824,
+                                "y": 752,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africanbuffalo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Buffalo - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -136,20 +122,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2237,
-                                "y": 1858,
-                                "size": 6
+                                "x": 941,
+                                "y": 758,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africanbuffalo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Buffalo - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -161,20 +148,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 80,
-                                "y": 639,
-                                "size": 6
+                                "x": 1070,
+                                "y": 758,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africanbuffalo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Buffalo - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -186,20 +174,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2164,
-                                "y": 211,
-                                "size": 6
+                                "x": 1195,
+                                "y": 755,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africanbuffalo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Buffalo - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -211,20 +200,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1347,
-                                "y": 1603,
-                                "size": 6
+                                "x": 1327,
+                                "y": 757,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africanbuffalo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Buffalo - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -236,20 +226,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1116,
-                                "y": 2420,
-                                "size": 6
+                                "x": 1460,
+                                "y": 750,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africanbuffalo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Leopard - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -261,20 +252,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 467,
-                                "y": 1643,
-                                "size": 6
+                                "x": 703,
+                                "y": 100,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africanleopard, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Leopard - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -286,1295 +278,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1685,
-                                "y": 2146,
-                                "size": 6
+                                "x": 470,
+                                "y": 102,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Africanleopard"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "African Leopard - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1289,
-                                "y": 125,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "African Leopard - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1544,
-                                "y": 183,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "African Leopard - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 218,
-                                "y": 280,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "African Leopard - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1165,
-                                "y": 1827,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "African Leopard - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 2135,
-                                "y": 17,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "African Leopard - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1858,
-                                "y": 657,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "African Leopard - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1377,
-                                "y": 193,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "American Bison - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 2212,
-                                "y": 1853,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "American Bison - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1783,
-                                "y": 2110,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "American Bison - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 108,
-                                "y": 112,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "American Bison - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 784,
-                                "y": 812,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "American Bison - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 702,
-                                "y": 402,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "American Bison - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1500,
-                                "y": 25,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "American Bison - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1443,
-                                "y": 62,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "American Bison - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 735,
-                                "y": 600,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "American Bison - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1687,
-                                "y": 975,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bengal Tiger - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1258,
-                                "y": 669,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bengal Tiger - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1420,
-                                "y": 1158,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bengal Tiger - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 596,
-                                "y": 1100,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bengal Tiger - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 927,
-                                "y": 637,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bengal Tiger - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1194,
-                                "y": 2399,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bengal Tiger - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 362,
-                                "y": 2204,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bengal Tiger - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 2234,
-                                "y": 1561,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bengal Tiger - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 370,
-                                "y": 2227,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bengal Tiger - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 352,
-                                "y": 1254,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bonobo - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 26,
-                                "y": 2008,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bonobo - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1224,
-                                "y": 834,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bonobo - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1881,
-                                "y": 1275,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bonobo - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1198,
-                                "y": 1826,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bonobo - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1555,
-                                "y": 122,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bonobo - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1544,
-                                "y": 113,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bonobo - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1828,
-                                "y": 1602,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bonobo - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1724,
-                                "y": 2079,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bonobo - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1566,
-                                "y": 777,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bornean Orangutan - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1549,
-                                "y": 1443,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bornean Orangutan - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 2216,
-                                "y": 1088,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bornean Orangutan - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 250,
-                                "y": 1544,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bornean Orangutan - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 34,
-                                "y": 1736,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bornean Orangutan - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1349,
-                                "y": 296,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bornean Orangutan - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1851,
-                                "y": 892,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bornean Orangutan - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1139,
-                                "y": 514,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bornean Orangutan - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 2298,
-                                "y": 664,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bornean Orangutan - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1428,
-                                "y": 605,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Reticulated Giraffe - Conservation Release",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 2100,
-                                "y": 53,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Reticulated Giraffe - First Acquisition",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1377,
-                                "y": 909,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Reticulated Giraffe - First Breeding",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 2445,
-                                "y": 646,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Reticulated Giraffe - Research Welfare 1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 2025,
-                                "y": 2082,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Reticulated Giraffe - Research Welfare 2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1771,
-                                "y": 187,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Reticulated Giraffe - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 1524,
-                                "y": 1028,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Reticulated Giraffe - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 253,
-                                "y": 1655,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Reticulated Giraffe - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Barrier Level 3",
-                                "x": 2339,
-                                "y": 2255,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Reticulated Giraffe - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -1587,19 +305,20 @@
                             {
                                 "map": "Barrier Level 3",
                                 "x": 586,
-                                "y": 2384,
-                                "size": 6
+                                "y": 108,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Siberian Tiger - Conservation Release",
+                        ],
+                        "access_rules": [
+                            "Permit:Africanleopard"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "African Leopard - Research Welfare 1",
                         "sections": [
                             {
                                 "name": "",
@@ -1611,20 +330,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1643,
-                                "y": 758,
-                                "size": 6
+                                "x": 828,
+                                "y": 105,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Siberian Tiger - First Acquisition",
+                        ],
+                        "access_rules": [
+                            "Permit:Africanleopard, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "African Leopard - Research Welfare 2",
                         "sections": [
                             {
                                 "name": "",
@@ -1636,20 +356,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 808,
-                                "y": 2357,
-                                "size": 6
+                                "x": 949,
+                                "y": 105,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Siberian Tiger - First Breeding",
+                        ],
+                        "access_rules": [
+                            "Permit:Africanleopard, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "African Leopard - Research Welfare 3",
                         "sections": [
                             {
                                 "name": "",
@@ -1661,20 +382,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1611,
-                                "y": 1184,
-                                "size": 6
+                                "x": 1084,
+                                "y": 105,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Siberian Tiger - Research Welfare 1",
+                        ],
+                        "access_rules": [
+                            "Permit:Africanleopard, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "African Leopard - Research Welfare 4",
                         "sections": [
                             {
                                 "name": "",
@@ -1686,20 +408,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1829,
-                                "y": 2348,
-                                "size": 6
+                                "x": 1203,
+                                "y": 100,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Siberian Tiger - Research Welfare 2",
+                        ],
+                        "access_rules": [
+                            "Permit:Africanleopard, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "African Leopard - Research Welfare 5",
                         "sections": [
                             {
                                 "name": "",
@@ -1711,20 +434,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2344,
-                                "y": 1090,
-                                "size": 6
+                                "x": 1324,
+                                "y": 105,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Siberian Tiger - Research Welfare 3",
+                        ],
+                        "access_rules": [
+                            "Permit:Africanleopard, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "African Leopard - Research Welfare 6",
                         "sections": [
                             {
                                 "name": "",
@@ -1736,20 +460,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 511,
-                                "y": 1249,
-                                "size": 6
+                                "x": 1440,
+                                "y": 102,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Siberian Tiger - Research Welfare 4",
+                        ],
+                        "access_rules": [
+                            "Permit:Africanleopard, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "American Bison - Conservation Release",
                         "sections": [
                             {
                                 "name": "",
@@ -1761,20 +486,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 86,
-                                "y": 718,
-                                "size": 6
+                                "x": 697,
+                                "y": 171,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Siberian Tiger - Research Welfare 5",
+                        ],
+                        "access_rules": [
+                            "Permit:Americanbison, ConservationProgram"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "American Bison - First Acquisition",
                         "sections": [
                             {
                                 "name": "",
@@ -1786,20 +512,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 486,
-                                "y": 219,
-                                "size": 6
+                                "x": 453,
+                                "y": 171,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Siberian Tiger - Research Welfare 6",
+                        ],
+                        "access_rules": [
+                            "Permit:Americanbison"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "American Bison - First Breeding",
                         "sections": [
                             {
                                 "name": "",
@@ -1811,20 +538,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1933,
-                                "y": 988,
-                                "size": 6
+                                "x": 572,
+                                "y": 172,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "West African Lion - Conservation Release",
+                        ],
+                        "access_rules": [
+                            "Permit:Americanbison"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "American Bison - Research Welfare 1",
                         "sections": [
                             {
                                 "name": "",
@@ -1836,20 +564,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1571,
-                                "y": 1223,
-                                "size": 6
+                                "x": 823,
+                                "y": 177,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "West African Lion - First Acquisition",
+                        ],
+                        "access_rules": [
+                            "Permit:Americanbison, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "American Bison - Research Welfare 2",
                         "sections": [
                             {
                                 "name": "",
@@ -1861,20 +590,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2009,
-                                "y": 1979,
-                                "size": 6
+                                "x": 948,
+                                "y": 174,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "West African Lion - First Breeding",
+                        ],
+                        "access_rules": [
+                            "Permit:Americanbison, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "American Bison - Research Welfare 3",
                         "sections": [
                             {
                                 "name": "",
@@ -1886,20 +616,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 119,
-                                "y": 1795,
-                                "size": 6
+                                "x": 1070,
+                                "y": 177,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "West African Lion - Research Welfare 1",
+                        ],
+                        "access_rules": [
+                            "Permit:Americanbison, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "American Bison - Research Welfare 4",
                         "sections": [
                             {
                                 "name": "",
@@ -1911,20 +642,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 843,
-                                "y": 170,
-                                "size": 6
+                                "x": 1197,
+                                "y": 174,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "West African Lion - Research Welfare 2",
+                        ],
+                        "access_rules": [
+                            "Permit:Americanbison, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "American Bison - Research Welfare 5",
                         "sections": [
                             {
                                 "name": "",
@@ -1936,20 +668,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1521,
-                                "y": 1775,
-                                "size": 6
+                                "x": 1319,
+                                "y": 176,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "West African Lion - Research Welfare 3",
+                        ],
+                        "access_rules": [
+                            "Permit:Americanbison, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "American Bison - Research Welfare 6",
                         "sections": [
                             {
                                 "name": "",
@@ -1961,20 +694,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 767,
-                                "y": 2065,
-                                "size": 6
+                                "x": 1443,
+                                "y": 174,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "West African Lion - Research Welfare 4",
+                        ],
+                        "access_rules": [
+                            "Permit:Americanbison, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bengal Tiger - Conservation Release",
                         "sections": [
                             {
                                 "name": "",
@@ -1986,20 +720,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2053,
-                                "y": 189,
-                                "size": 6
+                                "x": 702,
+                                "y": 236,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "West African Lion - Research Welfare 5",
+                        ],
+                        "access_rules": [
+                            "Permit:Bengaltiger, ConservationProgram"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bengal Tiger - First Acquisition",
                         "sections": [
                             {
                                 "name": "",
@@ -2011,20 +746,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1465,
-                                "y": 1117,
-                                "size": 6
+                                "x": 449,
+                                "y": 236,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "West African Lion - Research Welfare 6",
+                        ],
+                        "access_rules": [
+                            "Permit:Bengaltiger"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bengal Tiger - First Breeding",
                         "sections": [
                             {
                                 "name": "",
@@ -2036,20 +772,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2361,
-                                "y": 1796,
-                                "size": 6
+                                "x": 577,
+                                "y": 241,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Chimpanzee - Conservation Release",
+                        ],
+                        "access_rules": [
+                            "Permit:Bengaltiger"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bengal Tiger - Research Welfare 1",
                         "sections": [
                             {
                                 "name": "",
@@ -2061,20 +798,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1126,
-                                "y": 1758,
-                                "size": 6
+                                "x": 832,
+                                "y": 236,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Chimpanzee - First Acquisition",
+                        ],
+                        "access_rules": [
+                            "Permit:Bengaltiger, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bengal Tiger - Research Welfare 2",
                         "sections": [
                             {
                                 "name": "",
@@ -2086,20 +824,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1909,
-                                "y": 289,
-                                "size": 6
+                                "x": 946,
+                                "y": 244,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Chimpanzee - First Breeding",
+                        ],
+                        "access_rules": [
+                            "Permit:Bengaltiger, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bengal Tiger - Research Welfare 3",
                         "sections": [
                             {
                                 "name": "",
@@ -2111,20 +850,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2401,
-                                "y": 1747,
-                                "size": 6
+                                "x": 1072,
+                                "y": 243,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Chimpanzee - Research Welfare 1",
+                        ],
+                        "access_rules": [
+                            "Permit:Bengaltiger, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bengal Tiger - Research Welfare 4",
                         "sections": [
                             {
                                 "name": "",
@@ -2136,20 +876,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 993,
-                                "y": 751,
-                                "size": 6
+                                "x": 1192,
+                                "y": 243,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Chimpanzee - Research Welfare 2",
+                        ],
+                        "access_rules": [
+                            "Permit:Bengaltiger, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bengal Tiger - Research Welfare 5",
                         "sections": [
                             {
                                 "name": "",
@@ -2161,20 +902,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1155,
-                                "y": 1581,
-                                "size": 6
+                                "x": 1318,
+                                "y": 236,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Chimpanzee - Research Welfare 3",
+                        ],
+                        "access_rules": [
+                            "Permit:Bengaltiger, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bengal Tiger - Research Welfare 6",
                         "sections": [
                             {
                                 "name": "",
@@ -2186,20 +928,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2215,
-                                "y": 501,
-                                "size": 6
+                                "x": 1440,
+                                "y": 236,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Chimpanzee - Research Welfare 4",
+                        ],
+                        "access_rules": [
+                            "Permit:Bengaltiger, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bonobo - Conservation Release",
                         "sections": [
                             {
                                 "name": "",
@@ -2211,20 +954,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1892,
-                                "y": 534,
-                                "size": 6
+                                "x": 708,
+                                "y": 303,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Chimpanzee - Research Welfare 5",
+                        ],
+                        "access_rules": [
+                            "Permit:Bonobo, ConservationProgram"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bonobo - First Acquisition",
                         "sections": [
                             {
                                 "name": "",
@@ -2236,20 +980,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2346,
-                                "y": 688,
-                                "size": 6
+                                "x": 457,
+                                "y": 306,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Chimpanzee - Research Welfare 6",
+                        ],
+                        "access_rules": [
+                            "Permit:Bonobo"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bonobo - First Breeding",
                         "sections": [
                             {
                                 "name": "",
@@ -2261,20 +1006,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2099,
-                                "y": 1333,
-                                "size": 6
+                                "x": 580,
+                                "y": 306,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Lowland Gorilla - Conservation Release",
+                        ],
+                        "access_rules": [
+                            "Permit:Bonobo"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bonobo - Research Welfare 1",
                         "sections": [
                             {
                                 "name": "",
@@ -2286,20 +1032,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1048,
-                                "y": 2050,
-                                "size": 6
+                                "x": 826,
+                                "y": 299,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Lowland Gorilla - First Acquisition",
+                        ],
+                        "access_rules": [
+                            "Permit:Bonobo, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bonobo - Research Welfare 2",
                         "sections": [
                             {
                                 "name": "",
@@ -2311,20 +1058,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2117,
-                                "y": 1886,
-                                "size": 6
+                                "x": 945,
+                                "y": 305,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Lowland Gorilla - First Breeding",
+                        ],
+                        "access_rules": [
+                            "Permit:Bonobo, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bonobo - Research Welfare 3",
                         "sections": [
                             {
                                 "name": "",
@@ -2336,20 +1084,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 2190,
-                                "y": 766,
-                                "size": 6
+                                "x": 1080,
+                                "y": 299,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Lowland Gorilla - Research Welfare 1",
+                        ],
+                        "access_rules": [
+                            "Permit:Bonobo, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bonobo - Research Welfare 4",
                         "sections": [
                             {
                                 "name": "",
@@ -2361,20 +1110,463 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1939,
-                                "y": 1710,
-                                "size": 6
+                                "x": 1201,
+                                "y": 303,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
-                    },
-                    {
-                        "name": "Western Lowland Gorilla - Research Welfare 2",
+                        ],
+                        "access_rules": [
+                            "Permit:Bonobo, Researchcentre"
+                        ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bonobo - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
                         ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1328,
+                                "y": 303,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Bonobo, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bonobo - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1442,
+                                "y": 292,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Bonobo, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bornean Orangutan - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 703,
+                                "y": 364,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Borneanorangutan, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bornean Orangutan - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 452,
+                                "y": 361,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Borneanorangutan"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bornean Orangutan - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 569,
+                                "y": 363,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Borneanorangutan"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bornean Orangutan - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 831,
+                                "y": 363,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Borneanorangutan, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bornean Orangutan - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 949,
+                                "y": 373,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Borneanorangutan, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bornean Orangutan - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1087,
+                                "y": 363,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Borneanorangutan, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bornean Orangutan - Research Welfare 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1201,
+                                "y": 363,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Borneanorangutan, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bornean Orangutan - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1328,
+                                "y": 368,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Borneanorangutan, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Bornean Orangutan - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1457,
+                                "y": 375,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Borneanorangutan, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Reticulated Giraffe - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 709,
+                                "y": 427,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Reticulatedgiraffe, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Reticulated Giraffe - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 454,
+                                "y": 429,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Reticulatedgiraffe"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Reticulated Giraffe - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 571,
+                                "y": 426,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Reticulatedgiraffe"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Reticulated Giraffe - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 835,
+                                "y": 434,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Reticulatedgiraffe, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Reticulated Giraffe - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 959,
+                                "y": 434,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Reticulatedgiraffe, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Reticulated Giraffe - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1073,
+                                "y": 436,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Reticulatedgiraffe, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Reticulated Giraffe - Research Welfare 4",
                         "sections": [
                             {
                                 "name": "",
@@ -2387,19 +1579,904 @@
                             {
                                 "map": "Barrier Level 3",
                                 "x": 1199,
-                                "y": 534,
-                                "size": 6
+                                "y": 432,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Reticulatedgiraffe, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Reticulated Giraffe - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1326,
+                                "y": 438,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Reticulatedgiraffe, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Reticulated Giraffe - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1461,
+                                "y": 436,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Reticulatedgiraffe, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Siberian Tiger - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 701,
+                                "y": 496,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Siberiantiger, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Siberian Tiger - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 459,
+                                "y": 505,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Siberiantiger"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Siberian Tiger - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 578,
+                                "y": 491,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Siberiantiger"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Siberian Tiger - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 835,
+                                "y": 496,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Siberiantiger, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Siberian Tiger - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 952,
+                                "y": 500,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Siberiantiger, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Siberian Tiger - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1080,
+                                "y": 499,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Siberiantiger, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Siberian Tiger - Research Welfare 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1205,
+                                "y": 500,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Siberiantiger, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Siberian Tiger - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1322,
+                                "y": 499,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Siberiantiger, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Siberian Tiger - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1450,
+                                "y": 499,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Siberiantiger, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "West African Lion - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 699,
+                                "y": 561,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:WestAfricanlion, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "West African Lion - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 454,
+                                "y": 563,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:WestAfricanlion"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "West African Lion - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 576,
+                                "y": 556,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:WestAfricanlion"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "West African Lion - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 826,
+                                "y": 563,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:WestAfricanlion, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "West African Lion - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 959,
+                                "y": 561,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:WestAfricanlion, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "West African Lion - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1079,
+                                "y": 557,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:WestAfricanlion, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "West African Lion - Research Welfare 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1211,
+                                "y": 568,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:WestAfricanlion, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "West African Lion - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1321,
+                                "y": 563,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:WestAfricanlion, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "West African Lion - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1450,
+                                "y": 554,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:WestAfricanlion, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Chimpanzee - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 707,
+                                "y": 626,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernchimpanzee, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Chimpanzee - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 454,
+                                "y": 625,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernchimpanzee"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Chimpanzee - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 580,
+                                "y": 620,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernchimpanzee"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Chimpanzee - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 824,
+                                "y": 622,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernchimpanzee, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Chimpanzee - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 953,
+                                "y": 617,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernchimpanzee, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Chimpanzee - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1077,
+                                "y": 623,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernchimpanzee, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Chimpanzee - Research Welfare 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1198,
+                                "y": 630,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernchimpanzee, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Chimpanzee - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1323,
+                                "y": 628,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernchimpanzee, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Chimpanzee - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 1447,
+                                "y": 626,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernchimpanzee, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Lowland Gorilla - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 700,
+                                "y": 694,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernlowlandgorilla, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Lowland Gorilla - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 455,
+                                "y": 693,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernlowlandgorilla"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Lowland Gorilla - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 576,
+                                "y": 686,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernlowlandgorilla"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Lowland Gorilla - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 837,
+                                "y": 677,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernlowlandgorilla, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Western Lowland Gorilla - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 3",
+                                "x": 954,
+                                "y": 681,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit:Westernlowlandgorilla, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Western Lowland Gorilla - Research Welfare 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -2411,20 +2488,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1724,
-                                "y": 2295,
-                                "size": 6
+                                "x": 1088,
+                                "y": 691,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Westernlowlandgorilla, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Western Lowland Gorilla - Research Welfare 4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -2436,20 +2514,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 174,
-                                "y": 1374,
-                                "size": 6
+                                "x": 1200,
+                                "y": 691,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Westernlowlandgorilla, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Western Lowland Gorilla - Research Welfare 5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -2461,20 +2540,21 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 1991,
-                                "y": 1730,
-                                "size": 6
+                                "x": 1329,
+                                "y": 689,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Westernlowlandgorilla, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     },
                     {
                         "name": "Western Lowland Gorilla - Research Welfare 6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
                                 "name": "",
@@ -2486,14 +2566,31 @@
                         "map_locations": [
                             {
                                 "map": "Barrier Level 3",
-                                "x": 138,
-                                "y": 2168,
-                                "size": 6
+                                "x": 1451,
+                                "y": 683,
+                                "size": 10,
+                                "shape": "rect"
                             }
-                        ]
+                        ],
+                        "access_rules": [
+                            "Permit:Westernlowlandgorilla, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
                     }
-                ]
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
             }
-        ]
+        ],
+        "access_rules": [
+            "ProgressivebarrierLevel:3"
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
     }
 ]
