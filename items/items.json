@@ -1390,6 +1390,24 @@
                 "inherit_codes": true,
                 "img": "/images/items/ProgressivebarrierLevel.png",
                 "codes": "ProgressivebarrierLevel_stage3"
+            },
+            {
+                "name": "ProgressivebarrierLevel stage4",
+                "inherit_codes": true,
+                "img": "/images/items/ProgressivebarrierLevel.png",
+                "codes": "ProgressivebarrierLevel_stage4"
+            },
+            {
+                "name": "ProgressivebarrierLevel stage5",
+                "inherit_codes": true,
+                "img": "/images/items/ProgressivebarrierLevel.png",
+                "codes": "ProgressivebarrierLevel_stage5"
+            },
+            {
+                "name": "ProgressivebarrierLevel stage6",
+                "inherit_codes": true,
+                "img": "/images/items/ProgressivebarrierLevel.png",
+                "codes": "ProgressivebarrierLevel_stage6"
             }
         ]
     },

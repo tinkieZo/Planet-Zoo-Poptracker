@@ -25,7 +25,7 @@
                             }
                         ],
                         "access_rules": [
-                            " "
+                            "$has_permits|10, ProgressivebarrierLevel_stage3"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -51,7 +51,7 @@
                             }
                         ],
                         "access_rules": [
-                            " "
+                            "$has_permits|12, ProgressivebarrierLevel_stage3"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -76,9 +76,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -103,7 +101,7 @@
                             }
                         ],
                         "access_rules": [
-                            " "
+                            "$has_permits|18, ProgressivebarrierLevel_stage4"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -129,7 +127,7 @@
                             }
                         ],
                         "access_rules": [
-                            " "
+                            "$has_permits|6, ProgressivebarrierLevel_stage2"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -155,7 +153,7 @@
                             }
                         ],
                         "access_rules": [
-                            " "
+                            "$has_permits|8, ProgressivebarrierLevel_stage2"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -180,9 +178,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -207,7 +203,7 @@
                             }
                         ],
                         "access_rules": [
-                            " "
+                            "$has_permits|4, ProgressivebarrierLevel"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -233,7 +229,7 @@
                             }
                         ],
                         "access_rules": [
-                            " "
+                            "$has_permits|6, ProgressivebarrierLevel"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -259,7 +255,7 @@
                             }
                         ],
                         "access_rules": [
-                            " "
+                            "$has_permits|8, ProgressivebarrierLevel_stage2"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -285,24 +281,20 @@
                             }
                         ],
                         "access_rules": [
-                            " "
+                            "$has_permits|18, ProgressivebarrierLevel_stage3"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
                     }
                 ],
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": [],
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000"
             }
         ],
-        "access_rules": [
-            " "
-        ],
+        "access_rules": [],
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000"

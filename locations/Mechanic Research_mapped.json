@@ -24,9 +24,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -50,9 +48,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -76,9 +72,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -102,9 +96,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -128,9 +120,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -154,9 +144,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -180,9 +168,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -206,9 +192,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -232,9 +216,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -258,9 +240,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -284,9 +264,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -310,9 +288,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -336,9 +312,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -362,9 +336,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -388,9 +360,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -414,9 +384,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -440,9 +408,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -466,9 +432,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -492,9 +456,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -518,9 +480,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -544,9 +504,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -570,9 +528,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -596,9 +552,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -622,9 +576,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -648,9 +600,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -674,9 +624,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -700,9 +648,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -726,9 +672,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -752,9 +696,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -778,9 +720,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -804,9 +744,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -830,9 +768,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -856,9 +792,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -882,9 +816,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -908,9 +840,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -934,9 +864,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -960,9 +888,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -986,9 +912,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1012,9 +936,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1038,9 +960,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1064,9 +984,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1090,9 +1008,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1116,9 +1032,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1142,9 +1056,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1168,9 +1080,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1194,9 +1104,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1220,9 +1128,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1246,9 +1152,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1272,9 +1176,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1298,9 +1200,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1324,9 +1224,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1350,9 +1248,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1376,9 +1272,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1402,9 +1296,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1428,9 +1320,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1454,9 +1344,7 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
@@ -1480,24 +1368,20 @@
                                 "shape": "rect"
                             }
                         ],
-                        "access_rules": [
-                            " "
-                        ],
+                        "access_rules": [],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000"
                     }
                 ],
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": [],
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000"
             }
         ],
         "access_rules": [
-            " "
+            "Workshop"
         ],
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
