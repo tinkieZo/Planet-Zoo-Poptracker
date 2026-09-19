@@ -28,6 +28,11 @@ function OnFrameHandler()
     ScriptHost:AddWatchForCode("StateChanged", "*", StateChanged)
     ScriptHost:AddOnLocationSectionChangedHandler("location_section_change_handler", LocationHandler)
     CreateLuaManualStorageItem("manual_location_storage")
+    -- Count badge colour for the barrier consumable (items.json has no overlay_color key; Lua only).
+    local barrier = Tracker:FindObjectForCode("ProgressivebarrierLevel")
+    if barrier then
+        barrier.BadgeTextColor = "#000"
+    end
     ForceUpdate()
 end
 require("scripts.luaitems")
