@@ -265,7 +265,7 @@ function OnClear(slot_data)
     -- reset items
     for item_ID, item_array in pairs(ITEM_MAPPING) do
         for _, item_pair in pairs(item_array) do
-            local item_code = item_pair[1]
+            local item_code = (item_pair[1]:gsub(" ", "")) -- mapping holds AP names; codes drop the spaces
             local item_type = item_pair[2]
             local consumable_multiplier = tonumber(item_pair[3]) or 1
             -- print("on clear", item_code, item_type)
@@ -320,7 +320,9 @@ function OnItem(index, item_id, item_name, player_number)
         return
     end
     for _, item_pair in pairs(item) do
-        local item_code = item_pair[1]
+        -- ITEM_MAPPING holds the AP item NAME; the pack item CODE is that name with spaces removed
+        -- (e.g. "Research centre" -> "Researchcentre"). Without this only space-free names resolved.
+        local item_code = (item_pair[1]:gsub(" ", ""))
         local item_type = item_pair[2]
         local consumable_multiplier = tonumber(item_pair[3]) or 1
 

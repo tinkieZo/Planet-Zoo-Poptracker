@@ -109,7 +109,10 @@ function CreateLuaManualStorageItem(name)
         MANUAL_LOCATIONS_ORDER = {}
         -- you can add many more custom stuff in here
     }
-    self.PotentialCodes = {Code, Basename}
+    -- PotentialCodes takes priority over CanProvideCodeFunc in PopTracker >= 0.35.4. `Code`/`Basename` were
+    -- undefined globals, so this was an EMPTY list and Tracker:FindObjectForCode(name) could never find the item
+    -- (OnClear crashed with 'attempt to index a nil value').
+    self.PotentialCodes = {name}
     self.CanProvideCodeFunc = CanProvideCodeFunc
     self.OnLeftClickFunc = OnLeftClickFunc -- your_custom_leftclick_function_here
     self.OnRightClickFunc = OnRightClickFunc -- your_custom_rightclick_function_here
