@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "package_version": "0.0.1",
+      "download_url": "https://github.com/tinkieZo/Planet-Zoo-Poptracker/releases/download/0.0.1/Planet-Zoo-Poptracker.zip",
+      "sha256": "9de0a8aec54c121fb7b1476ade8cc7ce903dbaa2a438d1074eaac1168a8e7cf2",
+      "changelog": [
+        "Check release notes"
+      ]
+    }
+  ]
+}
